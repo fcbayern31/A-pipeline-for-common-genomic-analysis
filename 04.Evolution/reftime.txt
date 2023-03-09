@@ -1,0 +1,2 @@
+#Divergence time was obatined from [http://timetree.org/] Unit : Mya
+Specie A	Specie B	10.0 - 20.0

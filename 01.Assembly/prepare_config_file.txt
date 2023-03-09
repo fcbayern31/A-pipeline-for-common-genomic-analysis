@@ -1,0 +1,4 @@
+gene=     #gff, the same applies to other features in gff format
+repeat=   #masked fasta file
+vcf=      #SNP.vcf
+vcf=      #indel.vcf
